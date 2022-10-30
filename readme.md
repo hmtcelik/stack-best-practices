@@ -2,7 +2,7 @@
 
 ### Stack data structure best practices in C with these forms:
 
-- [Linked List](https://github.com/hmtcelik/stack-best-practices/blob/master/with_array.c)
+- [Linked List](https://github.com/hmtcelik/stack-best-practices/blob/master/with_linked_list.c)
 - [Array](https://github.com/hmtcelik/stack-best-practices/blob/master/with_array.c)
 
 #### There are 3 function to manipulation of stack:
