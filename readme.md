@@ -5,9 +5,7 @@
 - Linked List
 - Array
 
-<br>
-
-### There are 3 function to manipulation of stack:
+#### There are 3 function to manipulation of stack:
 
 ```C
 void init(Stack *stk);
